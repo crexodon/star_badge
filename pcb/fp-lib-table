@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cr2032_pcb")(type "KiCad")(uri "${KIPRJMOD}/libs/cr2032_pcb.pretty")(options "")(descr ""))
+  (lib (name "led_0603_double")(type "KiCad")(uri "${KIPRJMOD}/libs/led_0603_double.pretty")(options "")(descr ""))
+  (lib (name "TS-1187A")(type "KiCad")(uri "${KIPRJMOD}/libs/TS-1187A.pretty")(options "")(descr ""))
+)

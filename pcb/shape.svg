@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75mm"
+   height="75mm"
+   viewBox="0 0 75 75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="shape.svg"
+   inkscape:export-filename="shape.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.766028"
+     inkscape:cx="92.913015"
+     inkscape:cy="118.76236"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25">
+      <rect
+         style="fill:#ff0000;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect25-8"
+         width="78"
+         height="45.033199"
+         x="763.61322"
+         y="452.82422" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect5-4"
+         width="20"
+         height="200"
+         x="530"
+         y="595" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       id="path4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:transform-center-y="-3.4862698"
+       d="m 13.73053,-5.2448321 a 2.0749737,2.0749737 0 0 0 -2.075,2.0750002 2.0749737,2.0749737 0 0 0 0.4911,1.3404937 C 11.4796,-0.24858922 10.82809,1.579848 10.359152,1.9205515 9.5046652,2.5413727 3.7644786,2.2121127 3.4380936,3.2166225 3.1117085,4.2211323 7.9491889,7.3288433 8.2755739,8.3333531 8.6019588,9.3378629 6.5150166,14.695323 7.3695037,15.316144 c 0.8544871,0.620821 5.3048223,-3.019519 6.3610263,-3.019519 1.056204,0 5.506539,3.64034 6.361026,3.019519 0.854487,-0.620821 -1.232455,-5.978281 -0.90607,-6.9827909 0.326385,-1.0045097 5.163865,-4.1122208 4.83748,-5.1167306 C 23.696581,2.2121126 17.956395,2.5413728 17.101907,1.9205515 16.632969,1.5798479 15.981459,-0.24858908 15.314429,-1.8293382 a 2.0749737,2.0749737 0 0 0 0.491101,-1.3404937 2.0749737,2.0749737 0 0 0 -2.075,-2.0750002 z"
+       transform="matrix(3.3735367,0,0,3.3735367,-8.8204098,18.7499)" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="circle4"
+       cx="37.5"
+       cy="8.0562592"
+       r="4" />
+    <circle
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+       id="path5"
+       cx="37.580002"
+       cy="40.970001"
+       r="1" />
+  </g>
+</svg>
