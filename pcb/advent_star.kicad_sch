@@ -3240,16 +3240,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 53.34) (xy 177.8 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "619d9b0d-9742-410a-b9fc-acc293ee85a8")
-	)
-	(wire
-		(pts
 			(xy 162.56 140.97) (xy 162.56 142.24)
 		)
 		(stroke
@@ -4720,74 +4710,6 @@
 			(project "advent_star"
 				(path "/c94fd741-3317-4e4c-8137-e94188b66e79"
 					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 170.18 53.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5ecb193c-589e-46b9-94ff-466bb3468a86")
-		(property "Reference" "TP6"
-			(at 171.45 52.0699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 171.45 54.6099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 175.26 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 175.26 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 170.18 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "53d38cac-c117-48b3-b3fa-3e8533e3ebc3")
-		)
-		(instances
-			(project "advent_star"
-				(path "/c94fd741-3317-4e4c-8137-e94188b66e79"
-					(reference "TP6")
 					(unit 1)
 				)
 			)
