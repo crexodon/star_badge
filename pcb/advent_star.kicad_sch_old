@@ -4354,15 +4354,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4190"
-			(at 181.61 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c6f2f1b1-d4fd-49d9-a484-9aa411a66e9b")
 		)
@@ -4424,15 +4415,6 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 200.66 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 200.6663 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4504,15 +4486,6 @@
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
 			(at 191.77 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C15127"
-			(at 191.77 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4653,15 +4626,6 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 177.8 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C59461"
-			(at 180.34 57.1562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5075,15 +5039,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25197"
-			(at 153.67 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "24c74b57-f407-4e24-a146-1dccd88910e0")
 		)
@@ -5154,15 +5109,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4190"
-			(at 173.99 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "68233639-1e41-49ce-b9f0-a1525cef8c7e")
 		)
@@ -5226,15 +5172,6 @@
 		)
 		(property "Description" "3-Axis Accelerometer, 2/4/8g/16g range, I2C/SPI interface, LGA-12"
 			(at 194.056 129.794 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5126709"
-			(at 198.9933 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5401,15 +5338,6 @@
 		)
 		(property "Description" "CH32V003 series are industrial-grade general-purpose microcontrollers designed based on 32-bit RISC-V instruction set and architecture. It adopts QingKe V2A core, RV32EC instruction set, and supports 2 levels of interrupt nesting. The series are mounted with rich peripheral interfaces and function modules. Its internal organizational structure meets the low-cost and low-power embedded application scenarios."
 			(at 118.11 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5299908"
-			(at 120.2533 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6010,15 +5938,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 123.1963 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6512200f-af61-4af9-bbff-41f9afe6f76c")
 		)
@@ -6293,15 +6212,6 @@
 		)
 		(property "Description" "Push button switch, generic, symbol, four pins"
 			(at 167.64 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 167.64 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6910,15 +6820,6 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 238.76 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C21189"
-			(at 237.4899 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
