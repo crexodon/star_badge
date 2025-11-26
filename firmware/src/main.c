@@ -1,7 +1,9 @@
 #include <ch32v00x.h>
 #include <debug.h>
+#include <stdlib.h>
 
 #include "led_charlie.h"
+#include "animations_simple.h"
 
 void NMI_Handler(void) __attribute__((interrupt("WCH-Interrupt-fast")));
 void HardFault_Handler(void) __attribute__((interrupt("WCH-Interrupt-fast")));
@@ -43,7 +45,24 @@ int main(void){
         i2c_remap();
     }
 
-    charlie_test();
+    //charlie_test();
+
+    charlie_set_fast_pwm_mode(1);
+    charlie_set_brightness(40);  // Adjust brightness as needed
+    twinkle_init();
+    
+    /* Start with first random frame */
+    charlie_enable_multiplex(twinkle_next_frame());
+    
+    /* Main loop - just keep changing frames randomly */
+    while(1) {
+        /* Get next random frame and display it */
+        charlie_update_multiplex_pattern(twinkle_next_frame());
+        
+        /* Wait ~500ms between changes (adjust delay to taste) */
+        for(volatile uint32_t i = 0; i < 500000; i++);
+    }
+    
 
     // set interrupts
 
@@ -54,3 +73,6 @@ int main(void){
     // set sleep
     
 }
+
+
+    
