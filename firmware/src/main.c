@@ -34,9 +34,9 @@ int main(void){
     charlie_init();
     if(is_button_pressed()){
         while(1){   // Wait for SWD...
-            charlie_single(0, 1);
+            charlie_single(17, 1);
             for(volatile int i = 0; i < 100000; i++);
-            charlie_single(0, 0);
+            charlie_single(17, 0);
             for(volatile int i = 0; i < 100000; i++);
         }
     } else {
